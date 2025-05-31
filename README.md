@@ -18,5 +18,5 @@ This bash script retrieves and formats resource usage statisticds for K8S resour
 
 ## example
 
-![](kubeplugin.gif)
+![](/imgs/kubeplugin.gif)
 
